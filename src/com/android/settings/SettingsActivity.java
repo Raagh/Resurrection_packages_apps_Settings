@@ -1230,8 +1230,7 @@ public class SettingsActivity extends Activity
                 } else if (id == R.id.performance_settings) {
                     if (!(pm.hasPowerProfiles() || (showDev && !Build.TYPE.equals("user")))) {
                         removeTile = true;
-                    }
-                }
+                    }              
 		} else if (id == R.id.equalizer_settings) {
  		// Embedding into Settings only if app exists (user could manually remove it)
 		boolean supported = false;
