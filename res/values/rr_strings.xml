@@ -66,6 +66,8 @@
     <!-- Advanced, Device specific (DeviceParts) settings  -->
     <string name="device_settings_title">Device</string>
     <string name="rr_mod_version">Resurrection version</string>
+    <string name="genei_mod_version">Genei Rom version</string>
+    <string name="genei_version_default">Unknown</string>
     <!-- Status bar -->
     <string name="status_bar_title"><b>Status Bar</b></string>
     <string name="status_bar_style_title">Style and Tweaks</string>
@@ -137,7 +139,11 @@
     <string name="app_notification_show_on_keyguard_summary">Show notifications from this app on the lockscreen</string>
     <string name="app_notification_no_ongoing_on_keyguard_title">Disable ongoing on lockscreen</string>
     <string name="app_notification_no_ongoing_on_keyguard_summary">Never show ongoing notifications from this app on the lockscreen</string>
+<<<<<<< HEAD
     <string name="rr_settings_title"><b>Resurrection Tools</b></string>
+=======
+    <string name="rr_settings_title"><i><b>Genei Tools</b></i></string>
+>>>>>>> 1b76719... Added logo,device info.icons,removed RR
     <!-- Toast animations -->
     <string name="toast_animation_title">Toast animations</string>
     <string name="toast_animation_summary">Select and preview system toast animation</string>
