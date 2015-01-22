@@ -107,8 +107,11 @@ public class Settings extends SettingsActivity {
     public static class TopLevelSettings extends SettingsActivity { /* empty */ }
     public static class ApnSettingsActivity extends SettingsActivity { /* empty */ }
     public static class BlacklistSettingsActivity extends SettingsActivity { /* empty */ }
+<<<<<<< HEAD
     public static class QSTilesSettingsActivity extends SettingsActivity { /* empty */ }
     public static class DisplayRotationSettingsActivity extends SettingsActivity { /* empty */ }
+=======
+>>>>>>> 6c446bb... Settings: allow Profiles to be launched externally
     public static class ProfilesSettingsActivity extends SettingsActivity { /* empty */ }
 }
 
