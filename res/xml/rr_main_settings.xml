@@ -33,13 +33,6 @@
                 android:icon="@drawable/ic_rrutilities_tint"
                 />
                 
-        <PreferenceScreen
-                android:id="@+id/lock_settings"
-                android:title="@string/rr_lockscreen_title"
-                android:fragment="com.android.settings.rr.LockSettings"
-                android:icon="@drawable/ic_rrlocked_tint"
-
-                />
         <!-- Notification drawer -->
         <PreferenceScreen
                 android:id="@+id/notification_drawer_settings"
