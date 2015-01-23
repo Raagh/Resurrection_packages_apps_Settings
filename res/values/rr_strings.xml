@@ -310,16 +310,7 @@
     <!-- Battery saver -->
     <string name="battery_saver_title">Warning color</string>
     <string name="battery_saver_style_reset_message">Reset battery saver warning color?</string>
-   
-    <!-- Gesture Anywhere -->
-    <string name="gesture_anywhere_title"><b>Gesture Anywhere</b></string>
-    <string name="gesture_anywhere_enabled_title">Gesture Anywhere</string>
-    <string name="gesture_anywhere_enabled_summary">Enable the Gesture Anywhere feature</string>
-    <string name="gesture_anywhere_position_title">Location</string>
-    <string name="gesture_anywhere_position_left">Left edge</string>
-    <string name="gesture_anywhere_position_right">Right edge</string>
-    <string name="gesture_anywhere_gestures_title">Gestures</string>
-    <string name="gesture_anywhere_gestures_summary">Add, remove, and edit gestures</string>
+
     <!-- Label, button used to add a gesture -->
     <string name="ga_button_add">Add gesture</string>
     <!-- Label, button used to reload all gestures -->
