@@ -39,17 +39,6 @@
         android:fragment="com.android.settings.rr.AnimationControls" />
         
 </PreferenceCategory>
-        <!-- animations -->
-    <PreferenceCategory
-        android:title="@string/rr_gesture_title">
-        
-    <!-- Circle app bar -->
-    <PreferenceScreen
-        android:key="app_circle_bar"
-        android:fragment="com.android.settings.rr.AppCircleBar"
-        android:title="@string/app_circle_bar_title"/>
-        
-</PreferenceCategory>
 
     <PreferenceCategory
         android:key="recents_panel"
