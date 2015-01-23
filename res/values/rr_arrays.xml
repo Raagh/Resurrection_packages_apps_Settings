@@ -401,22 +401,6 @@
         <item>0</item>
         <item>1</item>
     </string-array>
-    <!-- Gesture Anywhere -->
-    <string-array name="gesture_anywhere_position_entries" translatable="false">
-        <item>@string/gesture_anywhere_position_left</item>
-        <item>@string/gesture_anywhere_position_right</item>
-    </string-array>
-
-    <string-array name="gesture_anywhere_position_values" translatable="false">
-        <item>3</item>
-        <item>5</item>
-    </string-array>
-    <string-array name="battery_bar_thickness_entries">
-        <item>1 dp</item>
-        <item>2 dp</item>
-        <item>3 dp</item>
-        <item>4 dp</item>
-    </string-array>
 
     <string-array name="battery_bar_thickness_values" translatable="false">
         <item>1</item>

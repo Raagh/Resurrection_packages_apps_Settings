@@ -43,6 +43,7 @@
                 android:title="@string/navigation_bar_dimensions_title" 
                 />
 
+
 </PreferenceCategory>
 
 </PreferenceScreen>
