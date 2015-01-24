@@ -379,5 +379,4 @@
     <string name="dialog_title_lcd_density">LCD density</string>
     <!-- Sound & display settings screen, setting option summary to change LCD density -->
     <string name="lcd_density_summary">xxx DPI</string>
-    <string name="long_press_kill_delay">App kill delay</string>
 </resources>
