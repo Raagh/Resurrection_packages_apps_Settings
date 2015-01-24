@@ -317,13 +317,9 @@ public class SettingsActivity extends Activity
             ApnSettings.class.getName(),
             BlacklistSettings.class.getName(),
             ProfilesSettings.class.getName(),
-<<<<<<< HEAD
             com.android.settings.cyanogenmod.PrivacySettings.class.getName(),
             QSTiles.class.getName(),
             DisplayRotation.class.getName()
-=======
-            com.android.settings.cyanogenmod.PrivacySettings.class.getName()
->>>>>>> 6c446bb... Settings: allow Profiles to be launched externally
     };
 
 
